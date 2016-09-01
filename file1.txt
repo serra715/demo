@@ -1,0 +1,3 @@
+l2: my age is 28
+l1: my name is suttijit
+l3: my occupation is master degree student
