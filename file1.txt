@@ -3,3 +3,4 @@ l1: my name is suttijit
 l3: my occupation is master degree student
 l4: my favorite sport is badminton
 l5: my favorite pet is dog
+l6: my favorite movie is starwar
